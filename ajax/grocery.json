@@ -1,0 +1,84 @@
+{
+   "items":[
+       {
+           "SerialNumber":"1",
+           "Name":"Sugar",
+           "Quantity":"1",
+           "Unit":"Kilogram",
+           "Department":"Grocery",
+           "Notes":"Loose"
+       },
+       {
+        "SerialNumber":"2",
+        "Name":"Tea",
+        "Quantity":"250",
+        "Unit":"Gram",
+        "Department":"Grocery",
+        "Notes":"AVT"
+    },
+    {
+        "SerialNumber":"3",
+        "Name":"Soap",
+        "Quantity":"1",
+        "Unit":"Packet",
+        "Department":"Grocery",
+        "Notes":"Santoor"
+    },
+    {
+        "SerialNumber":"4",
+        "Name":"Coconut Oil",
+        "Quantity":"1",
+        "Unit":"Kilogram",
+        "Department":"Grocery",
+        "Notes":"Kera"
+    },
+    {
+        "SerialNumber":"5",
+        "Name":"Rice",
+        "Quantity":"10",
+        "Unit":"Kilogram",
+        "Department":"Grocery",
+        "Notes":"Pavizham"
+    },
+    {
+        "SerialNumber":"6",
+        "Name":"Atta",
+        "Quantity":"1",
+        "Unit":"Kilogram",
+        "Department":"Grocery",
+        "Notes":"Aasirvad"
+    },
+    {
+        "SerialNumber":"7",
+        "Name":"Turmeric Powder",
+        "Quantity":"250",
+        "Unit":"Gram",
+        "Department":"Grocery",
+        "Notes":"Kitchen Treasures"
+    },
+    {
+        "SerialNumber":"8",
+        "Name":"Corriander Powder",
+        "Quantity":"250",
+        "Unit":"Gram",
+        "Department":"Grocery",
+        "Notes":"Kitchen Treasures"
+    },
+    {
+        "SerialNumber":"9",
+        "Name":"Chilli Powder",
+        "Quantity":"250",
+        "Unit":"Gram",
+        "Department":"Grocery",
+        "Notes":"Kitchen Treasures"
+    },
+    {
+        "SerialNumber":"10",
+        "Name":"Salt",
+        "Quantity":"1",
+        "Unit":"Kilogram",
+        "Department":"Grocery",
+        "Notes":"Annapurna"
+    }
+   ]
+}
